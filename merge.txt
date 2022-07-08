@@ -1,2 +1,3 @@
 file is created to practise merge conflict
+This is done in cmd line
 
