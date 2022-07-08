@@ -1,3 +1,3 @@
 file is created to practise merge conflict
 This is done in cmd line
-
+line is edited to view merge conflict
