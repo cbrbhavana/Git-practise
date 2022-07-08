@@ -1,2 +1,2 @@
 file is created to practise merge conflict
-
+line is edited to view merge conflict
